@@ -15,4 +15,3 @@ It visualizes monthly performance trends and category-based sales insights.
 
 ### 📂 Folder Structure
 # Online_Store_Analysis
-# Online_Store_Analysis
