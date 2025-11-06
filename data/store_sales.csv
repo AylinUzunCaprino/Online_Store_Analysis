@@ -1,0 +1,11 @@
+order_id,order_date,region,category,product_name,quantity,unit_price,profit
+2001,2025-01-10,North America,Electronics,Smartphone,3,500,250
+2002,2025-01-15,Europe,Furniture,Office Chair,5,120,180
+2003,2025-02-02,Asia,Clothing,Jacket,8,80,220
+2004,2025-02-20,Europe,Electronics,Laptop,2,1000,300
+2005,2025-03-05,North America,Furniture,Desk,1,400,120
+2006,2025-03-22,Asia,Electronics,Tablet,4,300,240
+2007,2025-04-03,North America,Clothing,T-Shirt,10,25,90
+2008,2025-04-10,Europe,Electronics,Headphones,6,80,110
+2009,2025-05-01,Asia,Furniture,Bookshelf,3,150,90
+2010,2025-05-20,North America,Electronics,Smartwatch,5,200,150
